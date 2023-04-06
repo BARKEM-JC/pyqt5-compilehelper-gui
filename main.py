@@ -2,7 +2,6 @@ import os
 import sys
 from PyQt5 import QtCore, QtGui, QtWidgets
 import shutil
-from PyQt5 import QtCore, QtGui, QtWidgets
 
 
 class Ui_MainWindow(object):
